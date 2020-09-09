@@ -18,7 +18,7 @@
   position: fixed;
   right: 0;
   left: 0;
-  bottom: -1px;
+  bottom: 0px;
   box-shadow: 0 -1px 0.5px rgba(100,100,100,0.1);
   z-index: 1000;
 }

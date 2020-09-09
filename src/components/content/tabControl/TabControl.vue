@@ -40,8 +40,8 @@
   }
   .tab-control-item{
     flex: 1;
-    height: 41px;
-    line-height: 41px;
+    height: 40px;
+    line-height: 40px;
   }
   .active{
     color:var(--color-high-text);
