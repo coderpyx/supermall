@@ -126,6 +126,7 @@ export default {
         this.recommends = res.data.data.recommend.list;
       })
     },
+    // 获取数据
     getHomeGoods(type) {
       const page = this.goods[type].page+1;
       getHomeGoods(type, page).then(res => {
